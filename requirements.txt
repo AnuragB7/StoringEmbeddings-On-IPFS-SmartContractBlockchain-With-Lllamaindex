@@ -1,0 +1,6 @@
+web3==7.7.0
+ipfsapi==0.4.4
+openai==1.61.0
+numpy==2.2.2
+python-dotenv==1.0.1
+llama-index-embeddings-openai==0.3.1
