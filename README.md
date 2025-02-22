@@ -19,19 +19,19 @@ Key Benefits:
 * No single point of failure since files are distributed across many nodes
 * Content remains accessible even if some nodes go offline
 * Better resilience against censorship and network outages
-1. Efficient Data Transfer
+2. Efficient Data Transfer
 * Downloads data from multiple sources simultaneously
 * Reduces bandwidth costs and server load
 * Only transfers unique pieces of data, avoiding duplicate content
-1. Content Integrity
+3. Content Integrity
 * Files are cryptographically hashed, ensuring content hasn't been tampered with
 * Content addressing means you always get exactly what you requested
 * Built-in version control for content changes
-1. Offline-First Capabilities
+4. Offline-First Capabilities
 * Content can be accessed without constant internet connection
 * Users can share files directly between devices on local networks
 * Improved performance in areas with limited connectivity
-1. Storage Efficiency
+5. Storage Efficiency
 * Deduplicates identical files automatically
 * Only stores one copy of identical content across the network
 * Reduces overall storage requirements
